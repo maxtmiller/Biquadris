@@ -36,7 +36,7 @@ Biquadris is developed using modern C++20 features and solid object-oriented des
   <img width="350" height="700" alt="Bonus Features Text Display" src="https://github.com/user-attachments/assets/d3bc89ab-c05d-4da1-bf97-da321ae2e5b2" />
 </div>
 
-## 🔧 Setup
+## 🔧 Setup (Linux support only)
 
 ### Instructions:
 1. Clone repository:
@@ -47,7 +47,7 @@ Biquadris is developed using modern C++20 features and solid object-oriented des
    ```
 
 2. Run (graphics + text display):
-
+   
    ```bash
      ./biquadris
    ```
