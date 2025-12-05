@@ -30,8 +30,8 @@ Biquadris is developed using modern C++20 features and solid object-oriented des
 ### 📄 Text Display Mode
 <div style="display: flex;">
   <img width="350" height="700" alt="Base Game Text Display" src="https://github.com/user-attachments/assets/1124fc7e-ec9c-46cd-bcfc-d5a2138b16f0" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img width="350" height="700" alt="Bonus Features Text Display" src="https://github.com/user-attachments/assets/d3bc89ab-c05d-4da1-bf97-da321ae2e5b2" />
 </div>
 
