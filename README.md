@@ -1,8 +1,8 @@
 # Biquadris
 
-**Biquadris** is a modern, multiplayer adaptation of Tetris, developed as the final project for **CS246: Object-Oriented Software Development** at the University of Waterloo. Biquadris allows players to experience the classic puzzle action while introducing new strategic elements, making it both familiar and innovative.
+**Biquadris** is a modern, multiplayer adaptation of Tetris, developed as the final project for **CS246: Object-Oriented Software Development** at the University of Waterloo. Due to University of Waterloo Policy 71, which restricts sharing course-related intellectual property, the full source code cannot be publicly released. 
 
-The game features both **graphical (X11)** and **text-based** displays, a modular and extensible architecture, and advanced gameplay mechanics that enhance the classic Tetris experience. It demonstrates object-oriented principles, design patterns, and modern C++20 programming techniques.
+Biquadris allows players to experience the classic puzzle action while introducing new strategic elements, making it both familiar and innovative. The game features both **graphical (X11)** and **text-based** displays, a modular and extensible architecture, and advanced gameplay mechanics that enhance the classic Tetris experience. It demonstrates object-oriented principles, design patterns, and modern C++20 programming techniques.
 
 ## 🚀 Features
 
